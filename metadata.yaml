@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '32913'
     url: http://www.gutenberg.org/2009/agents/32913
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27781#Revised-Edition-of-Poems
 gutenberg_issued: '2009-01-12'
 gutenberg_type: Text
 identifiers:
